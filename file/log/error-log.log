@@ -1,0 +1,9 @@
+2022-09-12 10:28:42,802 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-2] esto es un error
+2022-09-12 10:32:00,690 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-1] esto es un error
+2022-09-12 10:32:04,965 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-7] esto es un error
+2022-09-12 10:33:43,695 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-4] Mensaje a nivel de ERROR
+2022-09-12 10:35:01,355 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-3] esto es un error
+2022-09-12 10:40:23,155 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-1] esto es un error
+2022-09-12 10:41:10,689 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-3] Mensaje a nivel de ERROR
+2022-09-12 10:42:48,142 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-1] Mensaje a nivel de ERROR
+2022-09-12 10:56:47,078 ERROR com.example.bosonit55.Controller.logController [http-nio-8080-exec-1] esto es un error
